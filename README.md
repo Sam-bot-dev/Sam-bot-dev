@@ -20,6 +20,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-bot-dev&show_icons=true&locale=en" alt="sam-bot-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-botdev&" alt="sam-bot-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-bot-dev&" alt="sam-bot-dev" /></p>
 
 
