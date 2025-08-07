@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Orion**
 
-- 🌱 I’m currently learning **Javascript & Java**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **bavesh2006kumar@gmail.com**
 
