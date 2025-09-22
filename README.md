@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-bot-dev" alt="sam-bot-dev" /></a> </p>
 
 
-- 🔭 I’m currently working on **Orion**
+- 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **NothingT_T**
 
 - 📫 How to reach me **bavesh2006kumar@gmail.com**
 
