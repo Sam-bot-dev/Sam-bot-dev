@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-bot-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sam-bot-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-bot-dev" alt="Sam-bot-dev" /></a> </p> 
+![SAMMY007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SAMMY007)
 
 
 - 🔭 I’m currently working on **Nothing**
