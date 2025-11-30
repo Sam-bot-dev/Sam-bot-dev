@@ -1,12 +1,16 @@
 ![logo](https://github.com/Sam-bot-dev/Sam-bot-dev/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner_20241020_003215_0000.png)
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
+<p align="center">
+  <img src="https://www.codedex.io/api/petStatus?user=SAMMY007" alt="SAMMY007 Codédex Pet">
+</p>
+
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-bot-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sam-bot-dev" /> </p>
-<div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sam-bot-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sam-bot-dev" /> </p>
+  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-bot-dev" alt="Sam-bot-dev" /></a> </p> 
 ![SAMMY007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SAMMY007)
-</div>
+
 
 
 - 🔭 I’m currently working on **Nothing**
