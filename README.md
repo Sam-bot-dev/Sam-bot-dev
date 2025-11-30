@@ -3,9 +3,10 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-bot-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sam-bot-dev" /> </p>
-
+<div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-bot-dev" alt="Sam-bot-dev" /></a> </p> 
 ![SAMMY007 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SAMMY007)
+</div>
 
 
 - 🔭 I’m currently working on **Nothing**
