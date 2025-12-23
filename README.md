@@ -1,4 +1,6 @@
-![logo](https://github.com/Sam-bot-dev/Sam-bot-dev/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner_20241020_003215_0000.png)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="center">
