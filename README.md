@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sam-bot-dev&show_icons=true&locale=en" alt="Sam-bot-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-bot-dev&" alt="Sam-bot-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-bot-dev&theme=github-dark-blue" alt="Sam-bot-dev" /></p>
 
 <p><img align ="center" src="https://i.pinimg.com/736x/2c/1b/5e/2c1b5edab522c4983062add091a73376.jpg"></p>
