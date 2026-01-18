@@ -13,7 +13,7 @@
 <!-- <p align="left"> <a href="https://github.com/sam-bot-dev/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sam-bot-dev" alt="Sam-bot-dev" /></a> 
 </p> -->
 
-[![Sam](https://github-profile-trophy.vercel.app/?username=Sam-bot-dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Sam](https://github-profile-trophy.vercel.app/?username=Sam-bot-dev&theme=onedark)
 
 
 
