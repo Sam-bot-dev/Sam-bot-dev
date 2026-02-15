@@ -44,6 +44,48 @@ Hi, I'm **Bhavesh Kumar**, a developer passionate about building real-world AI s
 <p align="left">
 <a href="https://www.instagram.com/codeninja0?igsh=dWF5cm9xeGhlczc4&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@itz_lowkey_sam" height="30" width="40" /></a>
 </p>
+<table>
+<tr>
+
+<td width="60%">
+
+## 🛠 Currently Working On
+- Orion — real-world AI robot assistant (interaction + perception + control)
+- Tiny-Council — multi-agent decision system
+- Palm Vein Recognition — biometric authentication pipeline
+
+---
+
+## 🎯 Engineering Interests
+- Robotics & Embedded AI
+- Computer Vision Systems
+- Human-Computer Interaction
+- System Architecture & Real-time Processing
+- Applied Machine Learning (not notebook ML)
+
+---
+
+## 🧠 My Approach
+I design projects as systems, not scripts.
+
+Perception → Decision → Action → Feedback loop
+
+Every project I build tries to interact with the real world rather than just process static data.
+
+---
+
+> **Turning code into behavior.**
+
+</td>
+
+<td align="center">
+
+<img src="https://i.pinimg.com/736x/28/ec/30/28ec30fd4b32fc308af1fa824bdaac77.jpg" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 <h3 align="center">🧰 Languages & Tools</h3>
 
