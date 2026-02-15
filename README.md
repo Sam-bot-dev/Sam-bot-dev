@@ -17,6 +17,22 @@ Hi, I'm **Bhavesh Kumar**, a developer passionate about building real-world AI s
 
 <br clear="left"/>
   
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Sam-bot-dev/Tiny-council">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-bot-dev&repo=Tiny-council&theme=dark&cache_seconds=1"/>
+  </a>
+  <a href="https://github.com/Sam-bot-dev/Tiny-TPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-bot-dev&repo=Tiny-TPU&theme=dark&cache_seconds=1"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sam-bot-dev/Orion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sam-bot-dev&repo=Orion&theme=dark&cache_seconds=1"/>
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Nothing**
 
