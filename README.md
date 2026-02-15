@@ -9,6 +9,13 @@
 
 <!-- <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sam-bot-dev&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<img align="left" src="https://i.pinimg.com/originals/23/7a/c5/237ac54cdea81df47af9a65f895ee6db.gif" width="220"/>
+
+### About Me
+
+Hi, I'm **Bhavesh Kumar**, a developer passionate about building real-world AI systems that exist beyond the screen. I focus on robotics, computer vision, and intelligent software that behaves like an actual product rather than a simple demo. From creating *Orion*, a movable personal robot assistant, to designing a webcam-based motion game controller , I enjoy solving practical engineering problems with depth. My goal is to grow into a systems-level AI engineer, contribute to meaningful open-source projects, and work toward GSoC and top-tier tech internships.
+
+<br clear="left"/>
   
 
 - 🔭 I’m currently working on **Nothing**
@@ -26,59 +33,57 @@
 
 <div align="center">
 
-<!-- Row 1 (5) -->
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50"/>
+<!-- helper spacer -->
+<!-- 40px invisible block -->
+<!-- do not remove -->
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
 </p>
 
-<!-- Row 2 (4) -->
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+<p align="center">
+<!-- <img src="https://via.placeholder.com/40x1/00000000/00000000"> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
 </p>
 
-<!-- Row 3 (3) -->
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+<p align="center">
+<!-- <img src="https://via.placeholder.com/80x1/00000000/00000000"> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50">
 </p>
 
-<!-- Row 4 (2) -->
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50"/>
+<p align="center">
+<!-- <img src="https://via.placeholder.com/120x1/00000000/00000000"> -->
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">
 </p>
 
-<!-- Row 5 (1) -->
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50">
 </p>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-bot-dev&theme=github-dark-blue" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sam-bot-dev&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+
+<br><br>
+
+<img src="https://i.pinimg.com/736x/2c/1b/5e/2c1b5edab522c4983062add091a73376.jpg" width="500"/>
 
 </div>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-bot-dev&theme=github-dark-blue" alt="Sam-bot-dev" /></p>
-
-<p><img align ="center" src="https://i.pinimg.com/736x/2c/1b/5e/2c1b5edab522c4983062add091a73376.jpg"></p>
