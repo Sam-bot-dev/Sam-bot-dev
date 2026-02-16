@@ -52,7 +52,7 @@ Hi, I'm **Bhavesh Kumar**, a developer passionate about building real-world AI s
 ## 🛠 Currently Working On
 - Orion — real-world AI robot assistant (interaction + perception + control)
 - Tiny-Council — multi-agent decision system
-- Palm Vein Recognition — biometric authentication pipeline
+
 
 ---
 
