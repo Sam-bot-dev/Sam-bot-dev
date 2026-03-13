@@ -34,9 +34,9 @@ Hi, I'm **Bhavesh Kumar**, a developer passionate about building real-world AI s
   </a>
 </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Tiny-Council**
 
-- 🌱 I’m currently learning **NothingT_T**
+- 🌱 I’m currently learning **Robotics**
 
 - 📫 How to reach me **bavesh2006kumar@gmail.com**
 
